@@ -18,7 +18,7 @@ I built this with just HTML, CSS and JavaScript — no libraries or anything fan
 
 ## How to use it
 
-Just download the `signature-tool.html` file and open it in your browser. No setup needed, no install, nothing.
+Just download the `index.html` file and open it in your browser. No setup needed, no install, nothing.
 
 1. Draw your signature on the canvas
 2. Pick a color and pen size if you want
